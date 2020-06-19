@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repository\\WorkWithFilesHW\\src\\Detector\\Detector.csproj": {}
+    "D:\\repository\\test\\src\\Detector\\Detector.csproj": {}
   },
   "projects": {
-    "D:\\repository\\WorkWithFilesHW\\src\\Detector\\Detector.csproj": {
+    "D:\\repository\\test\\src\\Detector\\Detector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repository\\WorkWithFilesHW\\src\\Detector\\Detector.csproj",
+        "projectUniqueName": "D:\\repository\\test\\src\\Detector\\Detector.csproj",
         "projectName": "Detector",
-        "projectPath": "D:\\repository\\WorkWithFilesHW\\src\\Detector\\Detector.csproj",
+        "projectPath": "D:\\repository\\test\\src\\Detector\\Detector.csproj",
         "packagesPath": "C:\\Users\\grimy\\.nuget\\packages\\",
-        "outputPath": "D:\\repository\\WorkWithFilesHW\\src\\Detector\\obj\\",
+        "outputPath": "D:\\repository\\test\\src\\Detector\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
